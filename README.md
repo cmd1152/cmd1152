@@ -6,4 +6,5 @@ I started with simple **VB Script** and **Batch scripts**, then moved on to **VB
 Recently, I've been trying to learn **Python** and **cybersecurity** ~~(although it seems my Python skills have hit a plateau XD)~~.
 
 I believe the most important thing in programming is continuous improvement, learning excellent coding styles, *and learning from others' strengths to compensate for my weaknesses*
+
 ![cmd1152's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmd1152)
